@@ -7,7 +7,7 @@ class ZenooCli < Formula
   sha256 "bbeb96cc2a473583cfbf062ff1a422b844c4fbf481c6799b2e9bd21fd05eccb6"
   license "MIT"
 
-  depends_on "python@3.9"
+  depends_on "python@3.12"
 
   resource "click" do
     url "https://files.pythonhosted.org/packages/b9/2e/0090cbf739cee7d23781ad4b89a9894a41538e4fcf4c31dcdd705b78eb8b/click-8.1.8.tar.gz"
