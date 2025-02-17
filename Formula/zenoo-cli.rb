@@ -3,8 +3,8 @@ class ZenooCli < Formula
 
   desc "Zenoo CLI for managing service commands"
   homepage "https://github.com/zenoolabs/zenoo-cli"
-  url "https://github.com/zenoolabs/zenoo-cli/archive/refs/tags/0.0.1.tar.gz"
-  sha256 "0d414476d2e244e7063ee099cecb43a1e933f345ee3fc421ee6eb8f6a7a521b8"
+  url "https://github.com/zenoolabs/zenoo-cli/archive/refs/tags/0.0.2.tar.gz"
+  sha256 "bbeb96cc2a473583cfbf062ff1a422b844c4fbf481c6799b2e9bd21fd05eccb6"
   license "MIT"
 
   depends_on "python@3.9"
